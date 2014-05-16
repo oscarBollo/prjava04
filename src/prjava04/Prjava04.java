@@ -37,6 +37,9 @@ System.out.println("sdf");
 System.out.println("erwe");
 System.out.println("werwerwer");
 System.out.println("23444");
+System.out.println("erwe");
+System.out.println("4we54");
+System.out.println("23444");
 
 }
 
