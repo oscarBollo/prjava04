@@ -34,6 +34,10 @@ System.out.println("gfdgdfg");
 System.out.println("234");
 System.out.println("432");
 System.out.println("234");
+System.out.println("432");
+System.out.println("234");
+System.out.println("432");
+System.out.println("234");
 
 }
 
