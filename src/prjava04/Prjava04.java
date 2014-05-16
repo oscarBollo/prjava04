@@ -31,6 +31,12 @@ String hostname = addr.getHostName(); System.out.println("hostname="+hostname);
 System.out.println("Nom de l'usuari: " + System.getProperty("user.name"));
 
 System.out.println("gfdgdfg");
+System.out.println("sdf");
+System.out.println("234");
+System.out.println("sdf");
+System.out.println("erwe");
+System.out.println("werwerwer");
+System.out.println("23444");
 
 }
 
